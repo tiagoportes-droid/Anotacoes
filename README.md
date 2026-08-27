@@ -1,4 +1,4 @@
-# Anotações 
+# Anotações
 
 - `CREATE DATABASE if NOT EXIST {nome_banco}` Cria um bando de dados se ele não existir.
 - `USE {nome_banco}` Obrigatorio ultilizar pois é ele qem gera acessoa ao Banco de Dados Escolhido.
@@ -20,6 +20,6 @@ CREATE TABLE heroi(
 DESC heroi
 ```
 
-## Atalhos 
+## Atalhos
 
-*Ctrl + F9*: Executa a linha seleciona no terminal do heidi
+_Ctrl + F9_: Executa a linha seleciona no terminal do heidi
